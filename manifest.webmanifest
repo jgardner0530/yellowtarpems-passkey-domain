@@ -1,0 +1,11 @@
+{
+  "name": "Yellow Tarp EMS",
+  "short_name": "YTEMS",
+  "description": "Yellow Tarp EMS field operations platform",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#111111",
+  "orientation": "any"
+}
